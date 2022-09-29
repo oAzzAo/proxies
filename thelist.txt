@@ -3,7 +3,7 @@
 # One website pr line. Lines starting with # are considered comments.
 #
 
-http://www.xroxy.com/proxylist.htm
+
 http://www.ultraproxies.com/
 http://www.proxynova.com/proxy-server-list/
 http://aliveproxy.com/high-anonymity-proxy-list/
@@ -12,18 +12,6 @@ http://www.samair.ru/proxy/
 #http://www.blackhatworld.com/blackhat-seo/proxy-lists/753956-new-fresh-big-proxy-lists-worldwide-usa-elite-proxies-updated-daily-2.html
 http://www.us-proxy.org/
 
-# Different xroxy.com lists
-http://www.xroxy.com/proxy-port-80.htm
-http://www.xroxy.com/proxy-port-8080.htm
-http://www.xroxy.com/proxy-port-3128.htm
-http://www.xroxy.com/proxy-port-1080.htm
-http://www.xroxy.com/proxy--Anonymous-CN.htm
-http://www.xroxy.com/proxy--Anonymous-RU.htm
-http://www.xroxy.com/proxy--Anonymous-GB.htm
-http://www.xroxy.com/proxy--Anonymous-US.htm
-http://www.xroxy.com/proxylist.php?port=Not_standard
-http://www.xroxy.com/proxylist.php?port=Not_standard&type=Anonymous
-http://www.xroxy.com/proxy-type-Not_transparent.htm
 
 # Different UltraProxies lists
 http://www.ultraproxies.com/high-anonymous.html?datatype=High
@@ -99,7 +87,6 @@ http://pr0xysockslist.blogspot.com/feeds/posts/default?alt=rss
 http://notan.h1.ru/hack/xwww/proxy9.html
 http://googlepassedproxies.com/proxies/17-09-13-google-proxies/
 http://new-daily-proxies.blogspot.com/2013/08/12-08-13-new-daily-proxies-1640.html
-http://mischakot.jimdo.com/%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BF%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2/
 http://topgoldforum.com/topic/28482-2013-04-16-125-scrapebox-passed-http-proxies-freshly-verified-w-screenshot/
 http://webanetlabs.net/publ/9
 http://www.freeipproxy.space/feeds/posts/default
