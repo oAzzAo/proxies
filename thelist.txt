@@ -2,17 +2,11 @@
 #
 # One website pr line. Lines starting with # are considered comments.
 #
-http://www.ultraproxies.com/
 http://www.proxynova.com/proxy-server-list/
-http://aliveproxy.com/high-anonymity-proxy-list/
 https://proxy-list.org/english/index.php
 http://www.samair.ru/proxy/
-#http://www.blackhatworld.com/blackhat-seo/proxy-lists/753956-new-fresh-big-proxy-lists-worldwide-usa-elite-proxies-updated-daily-2.html
 http://www.us-proxy.org/
-# Different UltraProxies lists
-http://www.ultraproxies.com/high-anonymous.html?datatype=High
-http://www.ultraproxies.com/anonymous.html?datatype=Medium
-http://www.ultraproxies.com/http.html?datatype=HTTP=1
+
 # Different ProxyNova lists
 http://www.proxynova.com/proxy-server-list/country-us/
 http://www.proxynova.com/proxy-server-list/country-cn/
@@ -25,56 +19,9 @@ http://www.proxynova.com/proxy-server-list/country-br/
 http://www.proxynova.com/proxy-server-list/country-id/
 http://www.proxynova.com/proxy-server-list/country-ru/
 http://www.proxynova.com/proxy-server-list/country-fr/
-# Different Aliveproxy lists
-http://aliveproxy.com/anonymous-proxy-list/
-http://aliveproxy.com/proxy-list-port-8080/
-http://aliveproxy.com/proxy-list-port-3128/
-http://aliveproxy.com/proxy-list-port-81/
-http://aliveproxy.com/proxy-list-port-80/
-# Different proxy-list.org lists
-https://proxy-list.org/english/index.php?p=2
-https://proxy-list.org/english/index.php?p=3
-https://proxy-list.org/english/index.php?p=4
-http://free-proxy-list.net/
-http://www.mrhinkydink.com/proxies.htm
-http://www.cool-proxy.net/
-http://www.gatherproxy.com/
-http://www.gatherproxy.com/proxylist/anonymity/?t=Elite
-http://www.gatherproxy.com/proxylist/anonymity/?t=Anonymous
-http://free-proxy.cz/en/
-http://www.idcloak.com/proxylist/proxy-list.html
-http://www.ip-adress.com/proxy_list/
-# Hide My Ass IP:Port Proxies
-http://proxylist.hidemyass.com/
-http://proxylist.hidemyass.com/2
-http://proxylist.hidemyass.com/3
-http://proxylist.hidemyass.com/4
-http://proxylist.hidemyass.com/5
-http://proxylist.hidemyass.com/6
-http://proxylist.hidemyass.com/7
-http://proxylist.hidemyass.com/8
+
+
 #random unknown
-http://pastebin.com/u/SkiProne
-http://www.techonce.net/forums/132-Black-Hat-SEO
-http://myproxylists.com/socks-proxy-lists
-https://freedailyproxies.wordpress.com/feed/
-http://proxz.com/proxz1.php
-http://pastebin.com/u/Doxing_Lel
-http://www.baizhongso.com/ipShow.aspx?id=7972
-http://premiumaccount.ubiktx.com/20-04-13-irc-proxy-servers-2266/
-http://amazedtricks.blogspot.com/2013/04/16-04-13-irc-proxy-servers-2210.html
-http://www.proxyfire.net/forum/showthread.php?p=141536
-http://fakeip.ru/ProxyListV2/ProxyList.txt
-http://red-proxy.blogspot.com/2013/12/scrapebox-anonymous-google-passed_15.html
-http://notan.h1.ru/hack/xwww/proxy9.html
-http://googlepassedproxies.com/proxies/17-09-13-google-proxies/
-http://new-daily-proxies.blogspot.com/2013/08/12-08-13-new-daily-proxies-1640.html
-http://topgoldforum.com/topic/28482-2013-04-16-125-scrapebox-passed-http-proxies-freshly-verified-w-screenshot/
-http://webanetlabs.net/publ/9
-http://www.freeipproxy.space/feeds/posts/default
-http://pastebin.com/u/Thepbordin
-http://hackops.tr.gg/Proxy-List-.-2016.htm
-http://greenrain.bos.ru/R_Stuff/Proxy.htm
 http://www.forumharika.com/http-proxy-list/
 http://www.robotproxy.com/2013/04/100-scrapebox-proxies-robotproxycom_15.html
 https://proxylists.me/transparent-proxies
@@ -226,7 +173,7 @@ http://hpc.name/thread/3856/p1.html
 http://www.forum.safranboluforum.com/ally_wentworth_beni_seveceksin_beyaz_dizi_e_kitap_indir_oku-t43593p3.html
 http://dollar2000.chat.ru/s311.htm
 http://pub365.blogspot.com/2013/04/18-04-13-new-daily-hidemyass-premium.html
-proxy-worlds.blogspot.com/2013/03/free-usa-proxy-list.html
+http://proxy-worlds.blogspot.com/2013/03/free-usa-proxy-list.html
 http://miped.ru/forum/showtopic/2156-razdacha-proksi
 http://freepasstransport.blogspot.com/
 http://www.burningx.com/2013/04/19-04-13-high-anonymous-elite-l1-proxy.html
@@ -616,7 +563,7 @@ http://www.xici.net.co/wt/1
 http://proxy-base.org/f7/
 http://proxz.com/proxy_list_transparent_0.html
 http://seoproxies.blogspot.com/2013/09/20-09-13-scrapebox-proxies-3720.html
-newblackhat.blogspot.com/2013/04/21-04-2013-private-scrapebox-http.html
+http://newblackhat.blogspot.com/2013/04/21-04-2013-private-scrapebox-http.html
 http://www.robotproxy.com/2013/08/100-scrapebox-proxies-robotproxycom_12.html
 http://174.139.241.42/yahoo/lists/check_report.txt
 http://thebigproxylist.com/blog/?p=1299
@@ -697,7 +644,7 @@ http://urlhq1.com/proxies.txt
 https://proxylists.me/socks4-proxies
 http://proxy-faq.de/80.html
 http://www.haking-tricks.net/2014/01/free-rs100-recharge-from-airtel.html
-red-proxy.blogspot.com/2013_04_30_archive.html
+http://red-proxy.blogspot.com/2013_04_30_archive.html
 http://best-proxy.com/english/search.php?search=anonymous-and-elite&country=any&type=anonymous-and-elite&port=any&ssl=any
 http://proxible.blogspot.com/2013/10/free-proxy-server-list-3661.html
 http://pastebin.com/u/egoped
@@ -1362,7 +1309,7 @@ http://ordan-burdan.blogcu.com/
 http://en.bablomet.org/forum/socks-proxy/
 http://www.proxyfire.net/forum/showthread.php?t=64228
 http://googlepassedproxies.com/category/proxies/11/page/6
-netyazari.com/bedava-free-proxy-list-3.html
+http://netyazari.com/bedava-free-proxy-list-3.html
 http://www.burningx.com/2013/04/18-04-13-anonymous-proxy-servers-1410.html
 http://www.cybersyndrome.net
 http://notan.h1.ru/hack/xwww/proxy7.html
@@ -1436,7 +1383,7 @@ http://red-proxy.blogspot.com/2013/04/private-ssl-http-proxies_18.html
 http://samair.ru/proxy/proxy-14.htm
 http://www.proxyfire.net/forum/showthread.php?t=64616
 http://notan.h1.ru/hack/xwww/proxy7.html
-blackhatworld.com/blackhat-seo/proxy-lists/297574-100-scrapebox-proxies-3.html
+http://blackhatworld.com/blackhat-seo/proxy-lists/297574-100-scrapebox-proxies-3.html
 http://proxy.3dn.ru/
 http://clientn.real-hide-ip.com/update/?ACTION=Update
 http://bestblackhatforum.com/Forum-Proxies-and-VPN-Section
@@ -1463,10 +1410,10 @@ http://topgoldforum.com/topic/32834-2013-08-17-185-scrapebox-passed-http-proxies
 http://tenthandfive.collected.info/ajax/showfeeds/tenthandfive/87//eid=1180670452
 http://proxy-base.com/f5/
 http://maxiproxies.com/03-10-2014-new-fresh-public-proxy-list-example-maxiproxies-com
-freefastproxys.com/81312-scrapebox-proxy-list/
+http://freefastproxys.com/81312-scrapebox-proxy-list/
 http://trfrm.net/forumdisplay.php?f=290
 http://browseanonymously.net/recent/proxy-indonesia/
-red-proxy.blogspot.com/
+http://red-proxy.blogspot.com/
 http://seoproxies.blogspot.com/2013/08/28-08-13-scrapebox-proxies-4160.html
 http://pastebin.com/vK2fK4y0
 http://aliveproxy.com/socks5-checker/?i=173.61.32.135&p=1091
@@ -1691,7 +1638,7 @@ http://proxy.speedtest.at/proxybyActuality.php?offset=350
 http://www.robotproxy.com/2013/08/l1l2-proxies-updated-daily-tested-and_13.html
 http://xn--j1ahceh8f.xn--p1ai/%d0%a4%d0%be%d1%80%d1%83%d0%bc/tabid/85/forumid/28/scope/threads/Default.aspx
 http://m.66ip.cn/mo.php?sxb=&tqsl=999999999999&port=&export=&ktip=&sxa=&submit=%CC%E1&hl=
-kevinvarghese.blogspot.com/2013/05/06-05-13-scrapebox-proxies-google.html
+http://kevinvarghese.blogspot.com/2013/05/06-05-13-scrapebox-proxies-google.html
 http://www.governmentsecurity.org/forum/topic/35028-2013-04-21-113-scrapebox-passed-http-proxies-freshly-verified-w-screenshot/
 http://proxible.blogspot.com/2013/11/fresh-proxy-list-1800.html
 https://exchangecurrencyzone.com/forumdisplay.php/55-Trash-forum-please-spam-here!
@@ -1746,7 +1693,7 @@ http://blog.qualityproxylist.com/
 http://proxible.blogspot.com/2013/11/free-ssl-proxy-1405.html
 http://leaksden.com/forum-51.html
 http://mrpatialaz.blogspot.com/2013_04_01_archive.html
-trafficplanet.com/topic/4412-170-scrapebox-google-passed-proxies/
+http://trafficplanet.com/topic/4412-170-scrapebox-google-passed-proxies/
 http://www.proxyfire.net/forum/showthread.php?t=64795
 http://high-anonymity-proxy-server-list.blogspot.com/2013/10/high-anonymity-proxy-server-list-09-10.html
 http://kenitra.biz/2014-01-19-149-scrapebox-passed-http-proxies-freshly-verified-w-screenshot/
@@ -1754,7 +1701,7 @@ http://aliveproxy.com/proxy-list-port-3128
 http://newblackhat.blogspot.com/2013/04/16-04-13-high-anonymous-elite-l1-proxy.html
 http://www.pgate.kr/
 http://www.yysyuan.com/a/new/
-blackhatworld.com/blackhat-seo/proxy-lists/541538-fast-elite-scrapebox-proxies-daily-free-http.html
+http://blackhatworld.com/blackhat-seo/proxy-lists/541538-fast-elite-scrapebox-proxies-daily-free-http.html
 http://nntime.com/proxy-list-28.htm
 http://mianfeipao.com/index.php?s=/index/mfdl/p/1.html
 http://arianatorleaks.com/list/proxy.txt
@@ -1818,7 +1765,7 @@ http://proxy.auditoriaswireless.org/free-proxy-server-list-filter-high-anonymous
 http://www.naijasite.com/forums/30-Proxies
 http://bworm.vv.si/
 http://skill-gamer.ru/proxy/freeproxy1.txt
-pastebin.com/A31jD0n1
+http://pastebin.com/A31jD0n1
 http://www.blackhatworld.com/blackhat-seo/making-money/632380-finding-niches.html
 http://2proxy.org/tag/anonymous-proxy
 https://darkbyteblog.wordpress.com/socks-4/
@@ -2015,7 +1962,7 @@ http://trafficplanet.com/topic/4753-276-scrapebox-passed-high-speed-http-proxies
 https://nulledbb.com/Forum-Cracking-Proxies-and-Wordlists
 http://www.proxyfire.net/forum/showthread.php?p=137509
 http://samair.ru/proxy/type-08.htm
-shakzone.blogspot.com/2013/04/05-04-13-anonymous-proxy-servers-list.html
+http://shakzone.blogspot.com/2013/04/05-04-13-anonymous-proxy-servers-list.html
 http://seoproxies.blogspot.com/2013/10/09-10-13-scrapebox-proxies-3290.html
 http://proxy124.com/16-12-13-irc-proxy-servers-1440/
 http://www.blackhatcollections.com/Thread-449-L1-L2-Proxies-06-Apr-2013?action=lastpost
@@ -2384,12 +2331,12 @@ http://kemoceng.com/free-proxy-26-sep-2011-065625-new-9270
 http://pingrui.net/nt/1
 http://proxy124.com/scrapebox-proxies-6390-16-12-13/
 http://pastebin.com/u/matabata
-red-proxy.blogspot.com/2013_05_01_archive.html
+http://red-proxy.blogspot.com/2013_05_01_archive.html
 http://www.httpsdaili.com/?stype=4&page=1
 http://proxytut.ru/?page=1
 http://cyb3r-crack.blogspot.com/2013/04/private-scrapebox-http-proxies_28.html
 http://www.us-proxy.org/
-red-proxy.blogspot.com/2013/05/private-ssl-http-proxies_2.html
+http://red-proxy.blogspot.com/2013/05/private-ssl-http-proxies_2.html
 http://rammstein.narod.ru/proxy.html
 http://www.scrapeboxforum.com/syndication.php?fid=10
 http://trafficplanet.com/topic/5553-101-scrape-box-passed-high-speed-http-proxies-dated-2013-01-28/
@@ -2449,7 +2396,7 @@ http://dome-project.net/detail-informations/lates-free-net-for-globe-sept-2011
 http://www.hdonnet.ml/feeds/posts/default
 http://thebigproxylist.com/blog/?p=1078
 http://dome-project.net/detail-informations/free-airtelmms-proxy-sep2011
-premiumaccount.ubiktx.com/03-04-13-scrapebox-proxies-google-passed-532/
+http://premiumaccount.ubiktx.com/03-04-13-scrapebox-proxies-google-passed-532/
 http://pastebin.com/u/damian12
 https://keyloggerfacebookhack4c.wordpress.com/feed/
 http://www.forumharika.com/vip-socks-servers/
@@ -2616,7 +2563,7 @@ http://www.burningx.com/2013/04/19-04-13-scrapebox-proxy-servers-4000.html
 http://www.004388.com/ippt/index_2.html
 http://searchlores.org/pxylist1.txt
 http://seoproxies.blogspot.com/2013/10/10-10-13-scrapebox-proxies-3490.html
-newblackhat.blogspot.com/2013/03/01-03-13-scrapebox-proxy-servers-list.html
+http://newblackhat.blogspot.com/2013/03/01-03-13-scrapebox-proxy-servers-list.html
 http://prxfree.tumblr.com/
 http://proxible.blogspot.com/2013/09/http-proxy-servers-1592.html
 http://proxyref.ru/google/proxy.txt
@@ -2647,7 +2594,7 @@ http://proxy.wow.ag/proxyOnlyAnonymous.php?offset=0
 http://www.blackhatworld.com/blackhat-seo/proxy-lists/478638-183-scrapebox-passed-http-proxies-dated-2012-09-02-a.html
 http://trafficplanet.com/topic/5090-283-scrapebox-passed-http-proxies-dated-2012-12-04/
 http://hackxcrack.es/forum/index.php?action=profile;area=showposts;u=319
-blackhatworld.com/blackhat-seo/proxy-lists/449899-scrapebox-proxies.html
+http://blackhatworld.com/blackhat-seo/proxy-lists/449899-scrapebox-proxies.html
 http://best-proxylist.blogspot.com/2011/09/http-internet-proxy-anonymous-on-sund
 http://www.egproxy.com/feeds/posts/default
 http://cool-proxy.ru/tag/anonimnye
@@ -2681,7 +2628,7 @@ http://wapland.org/proxy/proxy.txt
 http://xn--j1ahceh8f.xn--p1ai/%d0%a4%d0%be%d1%80%d1%83%d0%bc/tabid/85/forumid/29/scope/threads/Default.aspx
 http://proxieslist.todownload.net/tag/nodus-proxy-list
 http://www.litevalency.com/community/anonymous-proxies.239/
-burningx.com/2013/05/04-05-13-scrapebox-proxy-servers-2340.html
+http://burningx.com/2013/05/04-05-13-scrapebox-proxy-servers-2340.html
 http://www.turkdigital.gen.tr/golden-socks/
 http://freeproxy.ru/download/lists/goodproxy.txt
 http://best-proxylist.blogspot.com/2011/09/freeproxy-http-on-sunday-25-september
