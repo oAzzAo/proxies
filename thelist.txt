@@ -1,24 +1,8 @@
-# This is a list of websites that ProxyMaid will use to get public proxies.
-#
-# One website pr line. Lines starting with # are considered comments.
-#
-http://www.proxynova.com/proxy-server-list/
-https://proxy-list.org/english/index.php
-http://www.samair.ru/proxy/
+#tested working
 http://www.us-proxy.org/
-
-# Different ProxyNova lists
-http://www.proxynova.com/proxy-server-list/country-us/
-http://www.proxynova.com/proxy-server-list/country-cn/
-http://www.proxynova.com/proxy-server-list/country-ve/
-http://www.proxynova.com/proxy-server-list/country-de/
-http://www.proxynova.com/proxy-server-list/country-gb/
-http://www.proxynova.com/proxy-server-list/country-ru/
-http://www.proxynova.com/proxy-server-list/country-in/
-http://www.proxynova.com/proxy-server-list/country-br/
-http://www.proxynova.com/proxy-server-list/country-id/
-http://www.proxynova.com/proxy-server-list/country-ru/
-http://www.proxynova.com/proxy-server-list/country-fr/
+http://www.xroxy.com/proxylist.php?port=Not_standard&type=Anonymous
+http://free-proxy-list.net/
+http://www.mrhinkydink.com/proxies.htm
 
 
 #random unknown
