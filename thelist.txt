@@ -1,11 +1,7 @@
-#tested working
 http://www.us-proxy.org/
 http://www.xroxy.com/proxylist.php?port=Not_standard&type=Anonymous
 http://free-proxy-list.net/
 http://www.mrhinkydink.com/proxies.htm
-
-
-#random unknown
 http://www.forumharika.com/http-proxy-list/
 http://www.robotproxy.com/2013/04/100-scrapebox-proxies-robotproxycom_15.html
 https://proxylists.me/transparent-proxies
@@ -124,7 +120,7 @@ http://my-proxy.com/list/proxy.php?list=6
 http://foxtools.ru/Proxy?page=1
 http://zhyk.ru/forum/showthread.php?t=111331&page=999999999
 http://ab57.ru/downloads/proxylist.txt
-burningx.com/2013/05/05-05-13-scrapebox-proxy-servers-4510_9307.html
+http://burningx.com/2013/05/05-05-13-scrapebox-proxy-servers-4510_9307.html
 http://proxible.blogspot.com/2013/10/free-ssl-proxy-2117.html
 http://freecenter.h1.ru/freeservice/proxy.shtml
 http://proxyfire.net/forum/showthread.php?goto=newpost&t=55369
@@ -453,7 +449,7 @@ https://raw.githubusercontent.com/monstersb/cc/master/proxy.txt
 http://proxieslist.todownload.net/tag/proxy-for-facebook-2013
 http://www.techtym.info/
 http://proxy.speedtest.at/proxybyActuality.php?offset=175
-sysnet.ucsd.edu/projects/freelance-topicmodeling/dataset/dictionary.txt
+http://sysnet.ucsd.edu/projects/freelance-topicmodeling/dataset/dictionary.txt
 http://www.technozonic.com/2013/04/free-latest-anonymous-proxy-servers.html
 http://my-proxy.com/list/proxy.php?list=7
 http://www.iphai.com/
@@ -1263,7 +1259,7 @@ http://proxieslist.todownload.net/tag/minecraft-proxy-ip-list
 http://avto-alberto.avtostar.si/avtostar/proxy_list_1.txt
 http://www.forumnova.com/konu-23-07-2012-l1-l2-l3-http-proxies-384414.html
 http://proxible.blogspot.com/2013/08/free-proxy-server-list-3049.html
-red-proxy.blogspot.com/2013/05/private-ssl-http-proxies_4.html
+http://red-proxy.blogspot.com/2013/05/private-ssl-http-proxies_4.html
 http://pastebin.com/u/Lakes
 http://pastebin.com/u/coolproxies
 http://www.turkdigital.gen.tr/http-proxies/
@@ -2566,7 +2562,6 @@ http://pastebin.com/u/stalmer
 http://pastebin.com/u/Fiiinnn1
 http://beautydream.spb.ru/category/hvastiki/feed/
 http://tool.cccyun.cn/tool/proxyIp.php?http=inha&p=1&do=down
-o-september-2011
 http://proxieslist.todownload.net/tag/list-of-pr0xies
 http://aliveproxy.com/socks5-list
 http://www.foruminfo.net/Forum-Guncel-Proxy-Listeleri
